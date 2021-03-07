@@ -141,7 +141,7 @@ You should from the start, embark in a reading and studding journey, the path is
   by John Bambenek, Agnieszka Klus
 
 
-## 4. Learn how to navigate with the most common editor vi and Emacs, learn what they represent in context, and learn other editors
+## 4. Learn how to navigate with the most common editors, vi and Emacs, learn what they represent in context, and learn other editors
 
 * nano - How to Use Nano, the Linux Command Line Text Editor <br>
   [https://linuxize.com/post/how-to-use-nano-text-editor/](https://linuxize.com/post/how-to-use-nano-text-editor/)
