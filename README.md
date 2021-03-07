@@ -48,6 +48,12 @@ You should from the start, embark in a reading and studding journey, the path is
 * Harley Hahns Guide to Unix and Linux <br> 
   by Harley Hahn
 
+* UNIX: A History and a Memoir <br>
+  by Brian W Kernighan
+
+* Just for Fun: The Story of an Accidental Revolutionary <br>
+  by Linus Torvalds, David Diamond
+
 * Unix <br>
   [https://en.wikipedia.org/wiki/Unix](https://en.wikipedia.org/wiki/Unix)
 
@@ -101,6 +107,9 @@ You should from the start, embark in a reading and studding journey, the path is
   
 * Rust (programming Language) <br>
   [https://en.wikipedia.org/wiki/Rust_(programming_language)](https://en.wikipedia.org/wiki/Rust_(programming_language))
+
+* Video - Revolution OS HD <br>
+  [https://www.youtube.com/watch?v=4vW62KqKJ5A](https://www.youtube.com/watch?v=4vW62KqKJ5A)
 
 
 ## 2. Learn by reading the documentation of the 3 major distros Ubuntu, Debian and Arch linux
@@ -225,6 +234,12 @@ You should from the start, embark in a reading and studding journey, the path is
 
 ## 8. Learn how to program in Linux
 
+* The Art of UNIX Programming <br>
+  by Eric Raymond
+
+* The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition <br>
+  by David Thomas, Andrew Hunt
+
 * Python Crash Course, 2nd Edition <br>
   A Hands-On, Project-Based Introduction to Programming <br>
   by Eric Matthes
@@ -255,12 +270,12 @@ You should from the start, embark in a reading and studding journey, the path is
   by Tony Stubblebine
 
 * Ry's Git Tutorial <br>
-  See the epub
+  See the EPUB. <br>
   [https://github.com/syn-bit/ry-s-git-tutorial](https://github.com/syn-bit/ry-s-git-tutorial)
   
 * Pro Git 2th edition <br>
-  Everything you need to know about Git
-  by Scott Chacon, Ben Straub
+  Everything you need to know about Git <br>
+  by Scott Chacon, Ben Straub <br>
   [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
 
 * Programming: Principles and Practice Using C++, 2nd Edition <br>
