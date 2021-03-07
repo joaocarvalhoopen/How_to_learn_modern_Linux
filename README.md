@@ -227,10 +227,19 @@ By this time you will be a more knowledge person and you could decide your next 
 ## 8. Learn how to program on Linux
 
 * The Art of UNIX Programming <br>
-  by Eric Raymond
+  by Eric Raymond <br>
+  [http://www.catb.org/~esr/writings/taoup/](http://www.catb.org/~esr/writings/taoup/) <br>
+  [http://www.catb.org/~esr/writings/taoup/html/](http://www.catb.org/~esr/writings/taoup/html/)
 
 * The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition <br>
   by David Thomas, Andrew Hunt
+
+* The Jargon File <br>
+  [http://www.catb.org/~esr//jargon/](http://www.catb.org/~esr//jargon/) 
+
+* The Cathedral and the Bazaar <br>
+  [http://www.catb.org/esr/writings/cathedral-bazaar/](http://www.catb.org/esr/writings/cathedral-bazaar/) <br>
+  [http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
 
 * Python Crash Course, 2nd Edition <br>
   A Hands-On, Project-Based Introduction to Programming <br>
