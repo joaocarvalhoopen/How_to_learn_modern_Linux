@@ -3,11 +3,7 @@ A simple but long path to the intrepid adventurer.
 
 ## Description
 
-Unix as a family of systems, is one of the greatest body of intellectual work ever achieved by the human mind! <br>
-It was the brain child of Ken Thompson in 1969, because he wanted to play a simple game called Space Travel that he had developed on Multics, and he wanted to be able to run the program in a small computer of it's own! <br>
-With the help of Dennis Ritchie and many other it was born in the Bell Labs but quickly it became a creature of all men kind! <br>
-And become in several forms a free bird to fly by it's own means and to be used as a tool for who ever wishes to learn deeper about it's ways of working.<br>
-It's a coherent agglomerate of different technologies that never gets old and like a Fenix, re-born from the ashes.
+Unix as a family of systems, is one of the greatest body of intellectual work ever achieved by the human mind! It was the brain child of Ken Thompson in 1969, because he wanted to play a simple game called Space Travel that he had developed on Multics, and he wanted to be able to run the program in a small computer of it's own! With the help of Dennis Ritchie and many other it was born in the Bell Labs but quickly it became a creature of all men kind! And become in several forms a free bird to fly by it's own means and to be used as a tool for who ever wishes to learn deeper about it's ways of working. It's a coherent agglomerate of different technologies that never gets old and like a Fenix, re-born from the ashes.
 
 
 ## The objective of this How to
@@ -17,14 +13,10 @@ The objective of this How to is to be a small guide, to give anyone a path to be
 
 ## The general path that we will follow ... explore and discover
 
-First, you will need to have a Linux installed. You should start with a Ubuntu Linux, preferably in a secondary machine (or virtual machine [Virtual Box]). Install it and play normally with it, as if it would be your main machine. Play with it for 3 months all days, explore and discover. <br>
-By now you will find that you are really comfortable with your Linux Ubuntu system, think if you are ready to make it your main system for every day use. <br>
-If you are, then install it on your main system and use it all day long, continue to explore and to discover. <br>
-Then in you secondary machine, install the Debian distribution (rock solid distro) with gnome once, and then with KDE, and use it for 3 months to get a real feeling for it, learn it inside out. <br>
-Then install a Arch system with rolling release for 3 months. Do all the process of installation and get into all the details that make Linux work, how it works. Go in depth into Linux. Learn to fix it when it breaks. <br>
-Then choose what you want to install on you main system: a Debian, a Arch Linux or if you would like to try another distro out there.
+First, you will need to have a Linux installed. You should start with a Ubuntu Linux, preferably in a secondary machine (or virtual machine [Virtual Box]). Install it and play normally with it, as if it would be your main machine. Play with it for 3 months all days, explore and discover. By now you will find that you are really comfortable with your Linux Ubuntu system, think if you are ready to make it your main system for every day use. If you are, then install it on your main system and use it all day long, continue to explore and to discover. Then in you secondary machine, install the Debian distribution (rock solid distro) with gnome once, and then with KDE, and use it for 3 months to get a real feeling for it, learn it inside out. Then install a Arch system with rolling release for 3 months. Do all the process of installation and get into all the details that make Linux work, how it works. Go in depth into Linux. Learn to fix it when it breaks. Then choose what you want to install on you main system: a Debian, a Arch Linux or if you would like to try another distro out there.
 By this time you will be a more knowledge person and you could decide your next move. <br>
-You should from the start, embark in a reading and studding journey, the path is listed bellow and some of the reading material is listed bellow. <br>
+<br>
+**You should from the start, embark in a reading and studding journey, the path is listed bellow and some of the reading material is listed bellow.** <br>
 <br>
 **The major steps are:** <br>
 
@@ -35,7 +27,7 @@ You should from the start, embark in a reading and studding journey, the path is
 5. Learn system administration
 6. Learn how Linux internals works
 7. Learn about open source and the major software and hardware licenses
-8. Learn how to program in Linux
+8. Learn how to program on Linux
 9. Learn how systems programming works
 10. Linux kernel development
 11. Learn Raspberry Pi and embedded Linux
@@ -108,7 +100,7 @@ You should from the start, embark in a reading and studding journey, the path is
 * Rust (programming Language) <br>
   [https://en.wikipedia.org/wiki/Rust_(programming_language)](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
-* Video - Revolution OS HD <br>
+* Video - Revolution OS <br>
   [https://www.youtube.com/watch?v=4vW62KqKJ5A](https://www.youtube.com/watch?v=4vW62KqKJ5A)
 
 
@@ -232,7 +224,7 @@ You should from the start, embark in a reading and studding journey, the path is
   [https://en.wikipedia.org/wiki/Open_Hardware_License](https://en.wikipedia.org/wiki/Open_Hardware_License)
 
 
-## 8. Learn how to program in Linux
+## 8. Learn how to program on Linux
 
 * The Art of UNIX Programming <br>
   by Eric Raymond
@@ -248,7 +240,7 @@ You should from the start, embark in a reading and studding journey, the path is
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_Python](https://github.com/joaocarvalhoopen/How_to_learn_modern_Python)
 
 * An Introduction to GCC: For the GNU Compilers GCC and G++ <br>
-  by Brian J. Gough, Richard M. Stallman
+  by Brian J. Gough, Richard M. Stallman <br>
   [https://www.linuxtopia.org/online_books/an_introduction_to_gcc/index.html](https://www.linuxtopia.org/online_books/an_introduction_to_gcc/index.html)
 
 * Simple notes on the C Programming Language <br>
@@ -286,6 +278,13 @@ You should from the start, embark in a reading and studding journey, the path is
 
 * How to learn modern C++ <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_C_Plus_Plus](https://github.com/joaocarvalhoopen/How_to_learn_modern_C_Plus_Plus)
+
+* Design Patterns: Elements of Reusable Object-Oriented Software <br>
+  by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch
+
+* Head First Design Patterns <br>
+  Building Extensible and Maintainable Object-Oriented Software 2nd Edition <br>
+  by Eric Freeman, Elisabeth Robson
 
 * The Rust Programming Language <br>
   by Steve Klabnik and Carol Nichols, with contributions from the Rust Community <br>
