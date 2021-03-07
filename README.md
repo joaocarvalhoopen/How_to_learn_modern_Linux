@@ -406,7 +406,7 @@ You should from the start, embark in a reading and studding journey, the path is
 
 ## 13. Become an enlightened person in terms of Linux and use it to accomplish your goals in a better way
 
-* You will never achieve the complete nirvana, because there will be always something new to learn, and that is something good, but you will become more close to it and to enlightenment.
+* You will never achieve the complete nirvana, because there will always be something new to learn, and that is something good, but you will become more close to it and to enlightenment.
 
 
 ## Have fun
