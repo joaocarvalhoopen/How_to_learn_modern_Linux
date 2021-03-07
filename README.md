@@ -293,6 +293,8 @@ By this time you will be a more knowledge person and you could decide your next 
 * How to learn modern Rust <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
 
+* The Go Programming Language <br>
+  by Alan Donovan, Brian Kernighan
 
 ## 9. Learn how systems programming works
 
