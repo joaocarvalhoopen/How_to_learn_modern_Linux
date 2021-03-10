@@ -329,8 +329,8 @@ By this time you will be a more knowledge person and you could decide your next 
 * The Linux programming interface a Linux and UNIX system programming handbook <br>
   by Michael Kerrisk
 
-* Autotools A practitioners guide to GNU Autoconf, Automake, and Libtool <br>
-  by John Calcote
+* Video - Linux System Programming 6 Hours Course <br>
+  [https://www.youtube.com/watch?v=6OSeJFo6GOc](https://www.youtube.com/watch?v=6OSeJFo6GOc)
 
 * Operating Systems Three Easy Pieces <br>
   by Remzi H Arpaci-Dusseau, Andrea C Arpaci-Dusseau <br>
@@ -344,6 +344,9 @@ By this time you will be a more knowledge person and you could decide your next 
 
 * Systems Programming in Unix/Linux <br>
   by K. C. Wang
+
+* Autotools A practitioners guide to GNU Autoconf, Automake, and Libtool <br>
+  by John Calcote
 
 * Linux Device Drivers, 3th Edition <br>
   [https://lwn.net/Kernel/LDD3/](https://lwn.net/Kernel/LDD3/)
