@@ -144,32 +144,50 @@ By this time you will be a more knowledge person and you could decide your next 
 
 ## 4. Learn how to navigate with the most common editors, vi and Emacs, learn what they represent in context, and learn other editors
 
-* nano - How to Use Nano, the Linux Command Line Text Editor <br>
+* **nano** - How to Use Nano, the Linux Command Line Text Editor <br>
   [https://linuxize.com/post/how-to-use-nano-text-editor/](https://linuxize.com/post/how-to-use-nano-text-editor/)
  
-* vi / vim wikipedia <br>
+* **vi / vim** wikipedia <br>
   [https://en.wikipedia.org/wiki/Vi](https://en.wikipedia.org/wiki/Vi)
 
-* Emacs wikipedia <br>
-  [https://en.wikipedia.org/wiki/Emacs](https://en.wikipedia.org/wiki/Emacs)
+* Video Vim Tutorial <br>
+  [https://www.youtube.com/watch?v=IiwGbcd8S7I](https://www.youtube.com/watch?v=IiwGbcd8S7I)
+
+* Video - The Vim Tutorial - Part One - Basic Commands <br>
+  [https://www.youtube.com/watch?v=ER5JYFKkYDg](https://www.youtube.com/watch?v=ER5JYFKkYDg)
+
+* Video - The Vim Tutorial - Part Two - More Commands <br>
+  [https://www.youtube.com/watch?v=tExTz7GnpdQ](https://www.youtube.com/watch?v=tExTz7GnpdQ)
+
+* Video - Managing Your Splits In Vim <br>
+  [https://www.youtube.com/watch?v=Zir28KFCSQw](https://www.youtube.com/watch?v=Zir28KFCSQw)
 
 * Learning the vi and Vim Editors, 7 Edition <br>
   by Arnold Robbins, Elbert Hannah, Linda Lamb
-  
+
+* **Emacs** wikipedia <br>
+  [https://en.wikipedia.org/wiki/Emacs](https://en.wikipedia.org/wiki/Emacs)
+
+* Video - Emacs Tutorial <br>
+  [https://www.youtube.com/watch?v=Iagbv974GlQ](https://www.youtube.com/watch?v=Iagbv974GlQ)  
+
 * Harley Hahns Emacs Field Guide <br>
   by Harley Hahn
 
-* Visual Studio Code <br>
+* **Visual Studio Code** <br>
   [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-* Sublime Text <br>
+* **Sublime Text** <br>
   [https://www.sublimetext.com/](https://www.sublimetext.com/)
 
-* The geany editor <br>
+* The **geany** editor <br>
   [https://www.geany.org/](https://www.geany.org/)
 
-* The Howl editor <br>
+* The **Howl** editor <br>
   [https://howl.io/](https://howl.io/)
+
+* Video - **LaTeX** Tutorial <br>
+  [https://www.youtube.com/watch?v=VhmkLrOjLsw](https://www.youtube.com/watch?v=VhmkLrOjLsw)
 
 
 ## 5. Learn system administration
@@ -304,6 +322,7 @@ By this time you will be a more knowledge person and you could decide your next 
 
 * The Go Programming Language <br>
   by Alan Donovan, Brian Kernighan
+
 
 ## 9. Learn how systems programming works
 
