@@ -46,6 +46,9 @@ By this time you will be a more knowledge person and you could decide your next 
 * Just for Fun: The Story of an Accidental Revolutionary <br>
   by Linus Torvalds, David Diamond
 
+* Video - Bell Labs Song <br>
+  [https://www.youtube.com/watch?v=IFfdnFOiXUU](https://www.youtube.com/watch?v=IFfdnFOiXUU)
+
 * Unix <br>
   [https://en.wikipedia.org/wiki/Unix](https://en.wikipedia.org/wiki/Unix)
 
