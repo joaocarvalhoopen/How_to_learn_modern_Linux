@@ -46,14 +46,20 @@ By this time you will be a more knowledge person and you could decide your next 
 * Video - The History of Unix, Rob Pike <br>
   [https://www.youtube.com/watch?v=_2NI6t2r_Hs](https://www.youtube.com/watch?v=_2NI6t2r_Hs)
 
-* UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories <br>
+* Video - UNIX: Making Computers Easier To Use -- AT&T Archives 1982, Bell Laboratories <br>
   [https://www.youtube.com/watch?v=XvDZLjaCJuw](https://www.youtube.com/watch?v=XvDZLjaCJuw)
 
-* VCF East 2019 -- Brian Kernighan interviews Ken Thompson <br>
+* Video - VCF East 2019 - Brian Kernighan interviews Ken Thompson <br>
   [https://www.youtube.com/watch?v=EY6q5dv_B-o](https://www.youtube.com/watch?v=EY6q5dv_B-o)
+
+* Video - Jon "maddog" Hall talks Unix and Linux history <br>
+  [https://www.youtube.com/watch?v=EZMA3Ge144U](https://www.youtube.com/watch?v=EZMA3Ge144U)
 
 * Video - Revolution OS <br>
   [https://www.youtube.com/watch?v=4vW62KqKJ5A](https://www.youtube.com/watch?v=4vW62KqKJ5A)
+
+* Video - The Origins of Linux - Linus Torvalds <br>
+  [https://www.youtube.com/watch?v=WVTWCPoUt8w](https://www.youtube.com/watch?v=WVTWCPoUt8w)
 
 * Harley Hahns Guide to Unix and Linux <br> 
   by Harley Hahn
