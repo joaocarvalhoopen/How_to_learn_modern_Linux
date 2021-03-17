@@ -40,8 +40,11 @@ By this time you will be a more knowledge person and you could decide your next 
 * Video - Bell Labs Song <br>
   [https://www.youtube.com/watch?v=IFfdnFOiXUU](https://www.youtube.com/watch?v=IFfdnFOiXUU)
 
-* The Thompson and Ritchie Story <br>
+* Video - The Thompson and Ritchie Story <br>
   [https://www.youtube.com/watch?v=g3jOJfrOknA](https://www.youtube.com/watch?v=g3jOJfrOknA)
+
+* Video - The History of Unix, Rob Pike <br>
+  [https://www.youtube.com/watch?v=_2NI6t2r_Hs](https://www.youtube.com/watch?v=_2NI6t2r_Hs)
 
 * UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories <br>
   [https://www.youtube.com/watch?v=XvDZLjaCJuw](https://www.youtube.com/watch?v=XvDZLjaCJuw)
