@@ -37,6 +37,18 @@ By this time you will be a more knowledge person and you could decide your next 
 
 ## 1. Learn and appreciate the history of Unix, Linux, GNU, X, FreeBSD and C
 
+* Video - Bell Labs Song <br>
+  [https://www.youtube.com/watch?v=IFfdnFOiXUU](https://www.youtube.com/watch?v=IFfdnFOiXUU)
+
+* UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories <br>
+  [https://www.youtube.com/watch?v=XvDZLjaCJuw](https://www.youtube.com/watch?v=XvDZLjaCJuw)
+
+* VCF East 2019 -- Brian Kernighan interviews Ken Thompson <br>
+  [https://www.youtube.com/watch?v=EY6q5dv_B-o](https://www.youtube.com/watch?v=EY6q5dv_B-o)
+
+* Video - Revolution OS <br>
+  [https://www.youtube.com/watch?v=4vW62KqKJ5A](https://www.youtube.com/watch?v=4vW62KqKJ5A)
+
 * Harley Hahns Guide to Unix and Linux <br> 
   by Harley Hahn
 
@@ -45,9 +57,6 @@ By this time you will be a more knowledge person and you could decide your next 
 
 * Just for Fun: The Story of an Accidental Revolutionary <br>
   by Linus Torvalds, David Diamond
-
-* Video - Bell Labs Song <br>
-  [https://www.youtube.com/watch?v=IFfdnFOiXUU](https://www.youtube.com/watch?v=IFfdnFOiXUU)
 
 * Unix <br>
   [https://en.wikipedia.org/wiki/Unix](https://en.wikipedia.org/wiki/Unix)
@@ -102,9 +111,6 @@ By this time you will be a more knowledge person and you could decide your next 
   
 * Rust (programming Language) <br>
   [https://en.wikipedia.org/wiki/Rust_(programming_language)](https://en.wikipedia.org/wiki/Rust_(programming_language))
-
-* Video - Revolution OS <br>
-  [https://www.youtube.com/watch?v=4vW62KqKJ5A](https://www.youtube.com/watch?v=4vW62KqKJ5A)
 
 
 ## 2. Learn by reading the documentation of the 3 major distros Ubuntu, Debian and Arch linux
