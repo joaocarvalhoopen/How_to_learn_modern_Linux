@@ -40,6 +40,9 @@ By this time you will be a more knowledge person and you could decide your next 
 * Video - Bell Labs Song <br>
   [https://www.youtube.com/watch?v=IFfdnFOiXUU](https://www.youtube.com/watch?v=IFfdnFOiXUU)
 
+* The Thompson and Ritchie Story <br>
+  [https://www.youtube.com/watch?v=g3jOJfrOknA](https://www.youtube.com/watch?v=g3jOJfrOknA)
+
 * UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories <br>
   [https://www.youtube.com/watch?v=XvDZLjaCJuw](https://www.youtube.com/watch?v=XvDZLjaCJuw)
 
@@ -108,7 +111,16 @@ By this time you will be a more knowledge person and you could decide your next 
 
 * Guido van Rossum <br>
   [https://en.wikipedia.org/wiki/Guido_van_Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)
-  
+
+* Go (programming language) <br>
+  [https://en.wikipedia.org/wiki/Go_(programming_language)](https://en.wikipedia.org/wiki/Go_(programming_language))
+
+* Rob Pike <br>
+  [https://en.wikipedia.org/wiki/Rob_Pike](https://en.wikipedia.org/wiki/Rob_Pike)
+
+* Video - Google I/O 2012 - Meet the Go Team - Ken Thompson <br>
+  [https://www.youtube.com/watch?v=sln-gJaURzk](https://www.youtube.com/watch?v=sln-gJaURzk)
+
 * Rust (programming Language) <br>
   [https://en.wikipedia.org/wiki/Rust_(programming_language)](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
@@ -179,6 +191,9 @@ By this time you will be a more knowledge person and you could decide your next 
 
 * Video - Emacs Tutorial <br>
   [https://www.youtube.com/watch?v=Iagbv974GlQ](https://www.youtube.com/watch?v=Iagbv974GlQ)  
+
+* GNU Emacs Manuals Online <br>
+  [https://www.gnu.org/software/emacs/manual/](https://www.gnu.org/software/emacs/manual/)
 
 * Harley Hahns Emacs Field Guide <br>
   by Harley Hahn
