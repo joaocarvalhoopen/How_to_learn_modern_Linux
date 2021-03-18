@@ -28,11 +28,12 @@ By this time you will be a more knowledge person and you could decide your next 
 6. Learn how Linux internals works
 7. Learn about open source and the major software and hardware licenses
 8. Learn how to program on Linux
-9. Learn how systems programming works
-10. Linux kernel development
-11. Learn Raspberry Pi and embedded Linux
-12. FreeBSD knowledge
-13. Become an enlightened person in terms of Linux and use it to accomplish your goals in a better way
+9. Craftsmanship and software design
+10. Learn how systems programming works
+11. Linux kernel development
+12. Learn Raspberry Pi and embedded Linux
+13. FreeBSD knowledge
+14. Become an enlightened person in terms of Linux and use it to accomplish your goals in a better way
 
 
 ## 1. Learn and appreciate the history of Unix, Linux, GNU, X, FreeBSD and C
@@ -149,6 +150,18 @@ By this time you will be a more knowledge person and you could decide your next 
 ## 3. Learn to use the shell, and more specific bash
 
 * man and info pages, the web, forums and books are all your friends!
+
+* Video - Shell Scripting Tutorial | Edureka <br>
+  [https://www.youtube.com/watch?v=GtovwKDemnI](https://www.youtube.com/watch?v=GtovwKDemnI)
+
+* Video - Linux Command Line Full course: Beginners to Experts. Bash <br>
+  [https://www.youtube.com/watch?v=2PGnYjbYuUo](https://www.youtube.com/watch?v=2PGnYjbYuUo)
+
+* Video - Shell Scripting Crash Course - Beginner Level - Traversy Media <br>
+  [https://www.youtube.com/watch?v=v-F3YLd6oMw](https://www.youtube.com/watch?v=v-F3YLd6oMw)
+
+* Video - Shell Scripting Tutorial - Derek Banas <br>
+  [https://www.youtube.com/watch?v=hwrnmQumtPw](https://www.youtube.com/watch?v=hwrnmQumtPw)
 
 * 100 Useful Command-Line Utilities <br>
   [https://www.oliverelliott.org/article/computing/ref_unix/#mkdirrmdir](https://www.oliverelliott.org/article/computing/ref_unix/#mkdirrmdir)
@@ -292,6 +305,9 @@ By this time you will be a more knowledge person and you could decide your next 
   [http://www.catb.org/esr/writings/cathedral-bazaar/](http://www.catb.org/esr/writings/cathedral-bazaar/) <br>
   [http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
 
+* Video - **Python** Tutorial - Derek Banas <br>
+  [https://www.youtube.com/watch?v=H1elmMBnykA](https://www.youtube.com/watch?v=H1elmMBnykA)
+
 * Python Crash Course, 2nd Edition <br>
   A Hands-On, Project-Based Introduction to Programming <br>
   by Eric Matthes
@@ -302,6 +318,9 @@ By this time you will be a more knowledge person and you could decide your next 
 * An Introduction to GCC: For the GNU Compilers GCC and G++ <br>
   by Brian J. Gough, Richard M. Stallman <br>
   [https://www.linuxtopia.org/online_books/an_introduction_to_gcc/index.html](https://www.linuxtopia.org/online_books/an_introduction_to_gcc/index.html)
+
+* Video - **C programming** video tutorial - Derek Banas <br>
+  [https://www.youtube.com/playlist?list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7)
 
 * Simple notes on the C Programming Language <br>
   [https://github.com/joaocarvalhoopen/Simple_notes_on_the_C_Programming_Language](https://github.com/joaocarvalhoopen/Simple_notes_on_the_C_Programming_Language)
@@ -321,7 +340,7 @@ By this time you will be a more knowledge person and you could decide your next 
 * Regular Expression Pocket Reference Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET, 2Th Edition <br>
   by Tony Stubblebine
 
-* Ry's Git Tutorial <br>
+* Ry's **Git** Tutorial <br>
   See the EPUB. <br>
   [https://github.com/syn-bit/ry-s-git-tutorial](https://github.com/syn-bit/ry-s-git-tutorial)
   
@@ -329,6 +348,9 @@ By this time you will be a more knowledge person and you could decide your next 
   Everything you need to know about Git <br>
   by Scott Chacon, Ben Straub <br>
   [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)
+
+* Video - **C++** Tutorial 2020 - Derek Banas <br>
+  [https://www.youtube.com/watch?v=6y0bp-mnYU0](https://www.youtube.com/watch?v=6y0bp-mnYU0)
 
 * Programming: Principles and Practice Using C++, 2nd Edition <br>
   by Bjarne Stroustrup
@@ -339,6 +361,49 @@ By this time you will be a more knowledge person and you could decide your next 
 * How to learn modern C++ <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_C_Plus_Plus](https://github.com/joaocarvalhoopen/How_to_learn_modern_C_Plus_Plus)
 
+* The **Rust** Programming Language <br>
+  by Steve Klabnik and Carol Nichols, with contributions from the Rust Community <br>
+  [https://doc.rust-lang.org/stable/book/](https://doc.rust-lang.org/stable/book/)
+
+* Video - Rust Crash Course - Rustlang - Traversy Media <br>
+  [https://www.youtube.com/watch?v=zF34dRivLOw](https://www.youtube.com/watch?v=zF34dRivLOw)
+ 
+* How to learn modern Rust <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
+
+* Video - **Go** Programming - Derek Banas <br>
+  [https://www.youtube.com/watch?v=CF9S4QZuV30](https://www.youtube.com/watch?v=CF9S4QZuV30)
+
+* The Go Programming Language <br>
+  by Alan Donovan, Brian Kernighan
+
+
+## 9. Craftsmanship and software design
+
+* The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition - 2nd Edition <br>
+  by David Thomas, Andrew Hunt
+
+* The Practice of Programming <br>
+  by Brian Kernighan, Rob Pike
+
+* Clean Code: A Handbook of Agile Software Craftsmanship <br>
+  by Robert C. Martin
+
+* The Clean Coder: A Code of Conduct for Professional Programmers <br>
+  by Robert Martin
+
+* Video - **Object Oriented Design** - Derek Banas <br>
+  [https://www.youtube.com/playlist?list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE](https://www.youtube.com/playlist?list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
+
+* Video - **UML 2.0** Tutorial - Derek Banas <br>
+  [https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc)
+
+* Video - **Design Patterns** Tutorial - Derek Banas <br>
+  [https://www.youtube.com/playlist?list=PLF206E906175C7E07](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
+
+* Video - **Code Refactoring** - Derek Banas <br>
+  [https://www.youtube.com/playlist?list=PLGLfVvz_LVvSuz6NuHAzpM52qKM6bPlCV](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSuz6NuHAzpM52qKM6bPlCV)
+
 * Design Patterns: Elements of Reusable Object-Oriented Software <br>
   by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch
 
@@ -346,20 +411,12 @@ By this time you will be a more knowledge person and you could decide your next 
   Building Extensible and Maintainable Object-Oriented Software 2nd Edition <br>
   by Eric Freeman, Elisabeth Robson
 
-* The Rust Programming Language <br>
-  by Steve Klabnik and Carol Nichols, with contributions from the Rust Community <br>
-  [https://doc.rust-lang.org/stable/book/](https://doc.rust-lang.org/stable/book/)
+* Clean Architecture: A Craftsman's Guide to Software Structure and Design <br>
+  by Robert Martin
 
-* How to learn modern Rust <br>
-  [https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
+## 10. Learn how systems programming works
 
-* The Go Programming Language <br>
-  by Alan Donovan, Brian Kernighan
-
-
-## 9. Learn how systems programming works
-
-* The Linux programming interface a Linux and UNIX system programming handbook <br>
+* The Linux programming interface a Linux and UNIX **system programming** handbook <br>
   by Michael Kerrisk
 
 * Video - Linux System Programming 6 Hours Course <br>
@@ -384,20 +441,20 @@ By this time you will be a more knowledge person and you could decide your next 
 * Linux Device Drivers, 3th Edition <br>
   [https://lwn.net/Kernel/LDD3/](https://lwn.net/Kernel/LDD3/)
 
-* Mastering Linux Device Driver Development <br>
+* Mastering Linux **Device Driver** Development <br>
   Write custom device drivers to support computer peripherals in Linux operating systems <br>
   by John Madieu
 
-* Computer Systems A Programmer’s Perspective <br>
+* **Computer Systems** A Programmer’s Perspective <br>
   by Randal E. Bryant David R. O’Hallaron
 
-* Computer Networking A Top-Down Approach, 7th Edition <br>
+* Computer **Networking** A Top-Down Approach, 7th Edition <br>
   by James Kurose, Keith Ross
 
 * The Illustrated Network How TCPIP Works in a Modern Network <br>
   by Walter Goralski
 
-* Compilers: Principles, Techniques, and Tools <br>
+* **Compilers**: Principles, Techniques, and Tools <br>
   by Alfred Aho, Monica Lam, Ravi Sethi
 
 * Writing An Interpreter In Go <br>
@@ -410,7 +467,7 @@ By this time you will be a more knowledge person and you could decide your next 
   The Hardware Software Interface <br>
   by David A. Patterson, John L. Hennessy 
 
-* Computer Architecture: A Quantitative Approach, 6th Edition <br>
+* **Computer Architecture**: A Quantitative Approach, 6th Edition <br>
   by John L. Hennessy, David A. Patterson
 
 * C++ System Programming Cookbook Practical recipes for Linux system-level programming using the latest C++ features <br>
@@ -420,7 +477,7 @@ By this time you will be a more knowledge person and you could decide your next 
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
 
 
-## 10. Linux kernel development
+## 11. Linux kernel development
 
 * Understanding the Linux Kernel, Third Edition 3rd Edition <br>
   by Daniel P. Bovet, Marco Cesati
@@ -432,7 +489,7 @@ By this time you will be a more knowledge person and you could decide your next 
   by Kaiwan N Billimoria
 
 
-## 11. Learn Raspberry Pi and embedded Linux
+## 12. Learn Raspberry Pi and embedded Linux
 
 * Raspberry Pi User Guide 4th Edition <br>
   by Eben Upton, Gareth Halfacree
@@ -472,7 +529,7 @@ By this time you will be a more knowledge person and you could decide your next 
   by Chris Simmonds
 
 
-## 12. FreeBSD knowledge
+## 13. FreeBSD knowledge
 
 * Absolute FreeBSD, 3rd Edition: The Complete Guide to FreeBSD <br>
   by Michael W. Lucas
@@ -484,7 +541,7 @@ By this time you will be a more knowledge person and you could decide your next 
   by Joseph Kong
 
 
-## 13. Become an enlightened person in terms of Linux and use it to accomplish your goals in a better way
+## 14. Become an enlightened person in terms of Linux and use it to accomplish your goals in a better way
 
 * You will never achieve the complete nirvana, because there will always be something new to learn, and that is something good, but you will become more close to it and to enlightenment.
 
