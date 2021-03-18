@@ -62,6 +62,9 @@ By this time you will be a more knowledge person and you could decide your next 
 * Video - The Origins of Linux - Linus Torvalds <br>
   [https://www.youtube.com/watch?v=WVTWCPoUt8w](https://www.youtube.com/watch?v=WVTWCPoUt8w)
 
+* Video - Why C is so Influential <br>
+  [https://www.youtube.com/watch?v=ci1PJexnfNE](https://www.youtube.com/watch?v=ci1PJexnfNE)
+
 * Harley Hahns Guide to Unix and Linux <br> 
   by Harley Hahn
 
@@ -376,6 +379,9 @@ By this time you will be a more knowledge person and you could decide your next 
 
 * The Go Programming Language <br>
   by Alan Donovan, Brian Kernighan
+
+* Video - **The Art of Code** - Dylan Beattie <br>
+  [https://www.youtube.com/watch?v=gdSlcxxYAA8](https://www.youtube.com/watch?v=gdSlcxxYAA8) 
 
 
 ## 9. Craftsmanship and software design
