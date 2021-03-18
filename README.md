@@ -20,7 +20,7 @@ By this time you will be a more knowledge person and you could decide your next 
 <br>
 **The major steps are:** <br>
 
-1. Learn and appreciate the history of Unix, Linux, GNU, X and FreeBSD
+1. Learn and appreciate the history of Unix, Linux, GNU, X and FreeBSD and C
 2. Learn by reading the documentation of the 3 major distros Ubuntu, Debian and Arch linux
 3. Learn to use the shell, and more specific the bash
 4. Learn how to navigate with the most common editor vi and Emacs, learn what they represent in context, and learn other editors
