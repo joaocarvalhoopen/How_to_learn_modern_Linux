@@ -62,8 +62,14 @@ By this time you will be a more knowledge person and you could decide your next 
 * Video - The Origins of Linux - Linus Torvalds <br>
   [https://www.youtube.com/watch?v=WVTWCPoUt8w](https://www.youtube.com/watch?v=WVTWCPoUt8w)
 
-* Video - Why C is so Influential <br>
+* Video - Why C is so Influential - Computerphile<br>
   [https://www.youtube.com/watch?v=ci1PJexnfNE](https://www.youtube.com/watch?v=ci1PJexnfNE)
+
+* Video - C Programming Language: Brian Kernighan - Computerphile <br>
+  [https://www.youtube.com/watch?v=de2Hsvxaf8M](https://www.youtube.com/watch?v=de2Hsvxaf8M)
+
+* Video - Dennis Ritchie - Write in C <br>
+  [https://www.youtube.com/watch?v=H4YRPdRXKFs](https://www.youtube.com/watch?v=H4YRPdRXKFs)
 
 * Harley Hahns Guide to Unix and Linux <br> 
   by Harley Hahn
@@ -382,6 +388,20 @@ By this time you will be a more knowledge person and you could decide your next 
 
 * The Go Programming Language <br>
   by Alan Donovan, Brian Kernighan
+
+* **Scheme** a small dialect of **LISP** <br>
+  Structure and Interpretation of Computer Programs - 2nd Edition <br>
+  by Harold Abelson, Gerald Jay Sussman, Julie Sussman <br>
+  [https://mitpress.mit.edu/sites/default/files/sicp/index.html](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+
+* Video - Lectures - MIT Open Courseware <br>
+  by Harold Abelson, Gerald Jay Sussman <br>
+  [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/) 
+
+* Scheme a small dialect of LISP <br>
+  Software Design for Flexibility: How to Avoid Programming Yourself into a Corner <br>
+  by Chris Hanson, Gerald Jay Sussman <br>
+  (In Creative Commons)
 
 * Video - **The Art of Code** - Dylan Beattie <br>
   [https://www.youtube.com/watch?v=gdSlcxxYAA8](https://www.youtube.com/watch?v=gdSlcxxYAA8) 
