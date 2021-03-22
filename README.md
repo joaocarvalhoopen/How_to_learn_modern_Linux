@@ -269,7 +269,10 @@ By this time you will be a more knowledge person and you could decide your next 
 
 ## 7. Learn about open source and the major software and hardware licenses
 
-* Open source <br>
+* The Open Source Definition <br>
+  [https://opensource.org/osd](https://opensource.org/osd)
+
+* Open Source <br>
   [https://en.wikipedia.org/wiki/Open_source](https://en.wikipedia.org/wiki/Open_source)
 
 * Software license <br>
