@@ -443,6 +443,22 @@ By this time you will be a more knowledge person and you could decide your next 
 * Clean Architecture: A Craftsman's Guide to Software Structure and Design <br>
   by Robert Martin
 
+* Grokking **Algorithms**: An Illustrated Guide for Programmers and Other Curious People <br>
+  by Aditya Bhargava
+
+* Introduction to Algorithms, 3rd Edition <br>
+  by Thomas H. Cormen
+
+* The Art of Computer Programming, Volumes 1-4A + Facicles <br>
+  by Donald Knuth and Donald John Fuller
+
+* The Art of **Multiprocessor Programming** 2nd Edition <br>
+  by Maurice Herlihy, Nir Shavit, Victor Luchangco, Michael Spear
+
+* C++ Concurrency in Action 2nd Edition <br>
+  by Anthony Williams
+
+
 ## 10. Learn how systems programming works
 
 * The Linux programming interface a Linux and UNIX **system programming** handbook <br>
