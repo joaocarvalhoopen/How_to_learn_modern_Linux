@@ -412,6 +412,9 @@ By this time you will be a more knowledge person and you could decide your next 
   by Chris Hanson, Gerald Jay Sussman <br>
   (In Creative Commons)
 
+* Video - **SQL** Tutorial - **MySQL** <br>
+  [https://www.youtube.com/watch?v=XqIk2PwP0To](https://www.youtube.com/watch?v=XqIk2PwP0To) 
+
 * Video - **The Art of Code** - Dylan Beattie <br>
   [https://www.youtube.com/watch?v=gdSlcxxYAA8](https://www.youtube.com/watch?v=gdSlcxxYAA8) 
 
