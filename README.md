@@ -31,9 +31,11 @@ By this time you will be a more knowledge person and you could decide your next 
 9. Craftsmanship and software design
 10. Learn how systems programming works
 11. Linux kernel development
-12. Learn Raspberry Pi and embedded Linux
-13. FreeBSD knowledge
-14. Become an enlightened person in terms of Linux and use it to accomplish your goals in a better way
+12. Hardware knowledge
+13. Artificial Intelligence and Machine Learning
+14. Learn Raspberry Pi and embedded Linux
+15. FreeBSD knowledge
+16. Become an enlightened person in terms of Linux and use it to accomplish your goals in a better way
 
 
 ## 1. Learn and appreciate the history of Unix, Linux, GNU, X, FreeBSD and C
@@ -508,13 +510,6 @@ By this time you will be a more knowledge person and you could decide your next 
 * Writing A Compiler In Go <br>
   by Thorsten Ball
 
-* Computer Organization and Design RISC-V Edition <br>
-  The Hardware Software Interface <br>
-  by David A. Patterson, John L. Hennessy 
-
-* **Computer Architecture**: A Quantitative Approach, 6th Edition <br>
-  by John L. Hennessy, David A. Patterson
-
 * C++ System Programming Cookbook Practical recipes for Linux system-level programming using the latest C++ features <br>
   by Onorato Vaticone
 
@@ -534,7 +529,71 @@ By this time you will be a more knowledge person and you could decide your next 
   by Kaiwan N Billimoria
 
 
-## 12. Learn Raspberry Pi and embedded Linux
+## 12. Hardware knowledge
+
+* Video - The Evolution Of **CPU** Processing Power Part 1: The Mechanics Of A CPU <br>
+  [https://www.youtube.com/watch?v=sK-49uz3lGg](https://www.youtube.com/watch?v=sK-49uz3lGg)
+
+* Video - The Evolution Of CPU Processing Power Part 2: Rise Of The x86 <br>
+  [https://www.youtube.com/watch?v=kvDBJC_akyg](https://www.youtube.com/watch?v=kvDBJC_akyg)
+
+* Video - The Evolution Of CPU Processing Power Part 3: The Origin Of Modern Operating Systems <br>
+  [https://www.youtube.com/watch?v=NTLwMgak3Fk](https://www.youtube.com/watch?v=NTLwMgak3Fk)
+
+* Video - The Evolution Of CPU Processing Power Part 4: The 32 Bit Processor - Pipelines and Caches <br>
+  [https://www.youtube.com/watch?v=qRbDWkOE63I](https://www.youtube.com/watch?v=qRbDWkOE63I)
+
+* Video - The AI Hardware Problem <br>
+  [https://www.youtube.com/watch?v=owe9cPEdm7k](https://www.youtube.com/watch?v=owe9cPEdm7k)
+
+* **Digital Design** and Computer Architecture 2nd Edition <br>
+  by David Harris, Sarah Harris
+
+* **Computer Organization** and Design **RISC-V** Edition: The Hardware Software Interface 2nd Edition <br>
+  by David A. Patterson, John L. Hennessy 
+
+* The RISC-V Reader: An Open Architecture Atlas <br>
+  by David Patterson, Andrew Waterman <br>
+  [http://riscvbook.com/](http://riscvbook.com/)
+
+* **Computer Architecture**: A Quantitative Approach 6th Edition <br>
+  by John L. Hennessy, David A. Patterson
+
+* How to learn modern **electronics** <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_modern_electronics](https://github.com/joaocarvalhoopen/How_to_learn_modern_electronics)
+
+* Most common **components** in electronics <br>
+  [https://github.com/joaocarvalhoopen/Most_common_components_in_electronics](https://github.com/joaocarvalhoopen/Most_common_components_in_electronics)
+
+* How to learn modern **Embedded Systems** <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_modern_Embedded_Systems](https://github.com/joaocarvalhoopen/How_to_learn_modern_Embedded_Systems)
+
+
+## 13. Artificial Intelligence and Machine Learning
+
+* How to learn modern Machine Learning <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_modern_Machine_Learning](https://github.com/joaocarvalhoopen/How_to_learn_modern_Machine_Learning)
+
+* The Hundred-Page Machine Learning Book <br>
+  by Andriy Burkov
+
+* **scikit-learn** - Machine Learning in Python <br>
+  [https://scikit-learn.org/](https://scikit-learn.org/)
+
+* Hands-On Machine Learning with Scikit-Learn, Keras, and **TensorFlow**: Concepts, Tools, and Techniques to Build Intelligent Systems 2nd Edition <br>
+  by Aurélien Géron
+
+* **PyTorch** Tutorials <br>
+  [https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
+
+* Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools <br>
+  by Eli Stevens, Luca Antiga, Thomas Viehmann
+
+* **CUDA** - Programming Massively Parallel Processors: A Hands-on Approach 3rd Edition <br>
+  by David B. Kirk, Wen-mei W. Hwu
+
+
+## 14. Learn Raspberry Pi and embedded Linux
 
 * Raspberry Pi User Guide 4th Edition <br>
   by Eben Upton, Gareth Halfacree
@@ -574,7 +633,7 @@ By this time you will be a more knowledge person and you could decide your next 
   by Chris Simmonds
 
 
-## 13. FreeBSD knowledge
+## 15. FreeBSD knowledge
 
 * Absolute FreeBSD, 3rd Edition: The Complete Guide to FreeBSD <br>
   by Michael W. Lucas
@@ -586,7 +645,7 @@ By this time you will be a more knowledge person and you could decide your next 
   by Joseph Kong
 
 
-## 14. Become an enlightened person in terms of Linux and use it to accomplish your goals in a better way
+## 16. Become an enlightened person in terms of Linux and use it to accomplish your goals in a better way
 
 * You will never achieve the complete nirvana, because there will always be something new to learn, and that is something good, but you will become more close to it and to enlightenment.
 
