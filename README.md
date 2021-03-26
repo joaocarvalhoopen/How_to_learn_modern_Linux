@@ -20,22 +20,22 @@ By this time you will be a more knowledge person and you could decide your next 
 <br>
 **The major steps are:** <br>
 
-1. Learn and appreciate the history of Unix, Linux, GNU, X, FreeBSD and C
-2. Learn by reading the documentation of the 3 major distros Ubuntu, Debian and Arch linux
-3. Learn to use the shell, and more specific the bash
-4. Learn how to navigate with the most common editor vi and Emacs, learn what they represent in context, and learn other editors
-5. Learn system administration
-6. Learn how Linux internals works
-7. Learn about open source and the major software and hardware licenses
-8. Learn how to program on Linux
-9. Craftsmanship and software design
-10. Learn how systems programming works
-11. Linux kernel development
-12. Hardware knowledge
-13. Artificial Intelligence and Machine Learning
-14. Learn Raspberry Pi and embedded Linux
-15. FreeBSD knowledge
-16. Become an enlightened person in terms of Linux and use it to accomplish your goals in a better way
+1. Learn and appreciate the **history** of Unix, Linux, GNU, X, FreeBSD and C
+2. Learn by reading the **documentation** of the 3 **major distros** Ubuntu, Debian and Arch linux
+3. Learn to use the **shell**, and more specific the **bash**
+4. Learn how to navigate with the most common **editor** **vi** and **Emacs**, learn what they represent in context, and learn other editors
+5. Learn **system administration**
+6. Learn how **Linux internals** works
+7. Learn about **open source** and the major software and hardware **licenses**
+8. Learn how to **program on Linux**
+9. **Craftsmanship** and **software design**
+10. Learn how **systems programming** works
+11. Linux **kernel development**
+12. **Hardware** knowledge
+13. **Artificial Intelligence** and **Machine Learning**
+14. Learn **Raspberry Pi** and **embedded Linux**
+15. **FreeBSD** knowledge
+16. Become an **enlightened person in terms of Linux** and use it to accomplish your goals in a better way
 
 
 ## 1. Learn and appreciate the history of Unix, Linux, GNU, X, FreeBSD and C
