@@ -391,7 +391,14 @@ By this time you will be a more knowledge person and you could decide your next 
 * The Go Programming Language <br>
   by Alan Donovan, Brian Kernighan
 
-* **Scheme** a small dialect of **LISP** <br>
+* Video - Lets **LISP** like it's 1959 <br>
+  [https://www.youtube.com/watch?v=hGY3uBHVVr4](https://www.youtube.com/watch?v=hGY3uBHVVr4)
+
+* LISP 1.5 Programmer's Manual  - 1962 <br>
+  By John McCarthy, Paul W. Abrahams, Daniel J. Edwards, Timothy P. Hart, Michael I. Levin <br>
+  [https://direct.mit.edu/books/book/2851/LISP-1-5-Programmer-s-Manual](https://direct.mit.edu/books/book/2851/LISP-1-5-Programmer-s-Manual)
+
+* **Scheme** a small dialect of LISP <br>
   Structure and Interpretation of Computer Programs - 2nd Edition <br>
   by Harold Abelson, Gerald Jay Sussman, Julie Sussman <br>
   [https://mitpress.mit.edu/sites/default/files/sicp/index.html](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
