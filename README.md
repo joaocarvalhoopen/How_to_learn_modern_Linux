@@ -375,7 +375,13 @@ By this time you will be a more knowledge person and you could decide your next 
 * How to learn modern C++ <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_C_Plus_Plus](https://github.com/joaocarvalhoopen/How_to_learn_modern_C_Plus_Plus)
 
-* The **Rust** Programming Language <br>
+* Video - **Rust** and **the Future of Systems Programming** <br>
+  [https://www.youtube.com/watch?v=8EPsnf_ZYU0](https://www.youtube.com/watch?v=8EPsnf_ZYU0) 
+
+* Video - Unlocking the Power of **Parallelism** with Rust <br>
+  [https://www.youtube.com/watch?v=cNeIOt8ZdAY](https://www.youtube.com/watch?v=cNeIOt8ZdAY)
+
+* The Rust Programming Language <br>
   by Steve Klabnik and Carol Nichols, with contributions from the Rust Community <br>
   [https://doc.rust-lang.org/stable/book/](https://doc.rust-lang.org/stable/book/)
 
