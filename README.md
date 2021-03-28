@@ -520,6 +520,10 @@ By this time you will be a more knowledge person and you could decide your next 
 * **Compilers**: Principles, Techniques, and Tools <br>
   by Alfred Aho, Monica Lam, Ravi Sethi
 
+* Crafting **Interpreters** <br>
+  by Robert Nystrom <br>
+  [https://craftinginterpreters.com](https://craftinginterpreters.com)
+
 * Writing An Interpreter In Go <br>
   by Thorsten Ball
 
