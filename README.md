@@ -121,6 +121,12 @@ By this time you will be a more knowledge person and you could decide your next 
 * Brian Kernighan <br>
   [https://en.wikipedia.org/wiki/Brian_Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan)
 
+* Plan 9 from Bell Labs <br>
+  [https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
+
+* Inferno <br>
+  [https://en.wikipedia.org/wiki/Inferno_(operating_system)](https://en.wikipedia.org/wiki/Inferno_(operating_system))
+
 * C++ (programming language) <br>
   [https://en.wikipedia.org/wiki/C%2B%2B](https://en.wikipedia.org/wiki/C%2B%2B)
   
