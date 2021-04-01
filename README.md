@@ -3,7 +3,7 @@ A simple but long path to the intrepid adventurer.
 
 ## Description
 
-Unix as a family of systems, is one of the greatest bodies of intellectual work ever achieved by the human mind! It was the brainchild of Ken Thompson in 1969, because he wanted to play a simple game called Space Travel that he had developed on Multics, and he wanted to be able to run the program in a small computer of its own! With the help of Dennis Ritchie and many others it was born in the Bell Labs but quickly it became a creature of all mankind! And become in several forms a free bird to fly by its own means and to be used as a tool for whoever wishes to learn deeper about it's ways of working. It's a coherent agglomerate of different technologies that never gets old and like a Fenix, re-born from the ashes.
+Unix as a family of systems, is one of the greatest bodies of intellectual work ever achieved by the human mind! It was the brainchild of Ken Thompson in 1969, because he wanted to play a simple game called Space Travel that he had developed for Multics, and he wanted to be able to run the program in a small computer of its own! With the help of Dennis Ritchie and many others it was born in the Bell Labs but quickly it became a creature of all mankind! And become in several forms a free bird to fly by its own means and to be used as a tool for whoever wishes to learn deeper about it's ways of working. It's a coherent agglomerate of different technologies that never gets old and like a Fenix, re-born from the ashes.
 
 
 ## The objective of this How to
@@ -13,7 +13,7 @@ The objective of this How to is to be a small guide, to give anyone a path to be
 
 ## The general path that we will follow ... explore and discover
 
-First, you will need to have a Linux installed. You should start with Ubuntu Linux, preferably in a secondary machine (or virtual machine [Virtual Box]). Install it and play normally with it, as if it would be your main machine. Play with it for 3 months all days, explore and discover. By now you will find that you are really comfortable with your Linux Ubuntu system, think if you are ready to make it your main system for everyday use. If you are, then install it on your main system and use it all day long, continue to explore and to discover. Then in your secondary machine, install the Debian distribution (rock solid distro) with gnome once, and then with KDE, and use it for 3 months to get a real feeling for it, learn it inside out. Then install an Arch system with rolling release for 3 months. Do all the process of installation and get into all the details that make Linux work, how it works. Go in depth into Linux. Learn to fix it when it breaks. Then choose what you want to install on your main system: a Debian, a Arch Linux or if you would like to try another distro out there.
+First, you will need to have a Linux installed. You should start with Ubuntu Linux, preferably in a secondary machine (or virtual machine [Virtual Box]). Install it and play normally with it, as if it would be your main machine. Play with it for 3 months all days, explore and discover. By then, you will find that you are really comfortable with your Linux Ubuntu system, then, think if you are ready to make it your main system for everyday use. If you are, then install it on your main system and use it all day long, continue to explore and to discover. Then in your secondary machine, install the Debian distribution (rock solid distro) with gnome once, and then with KDE, and use it for 3 months to get a real feeling for it, learn it inside out. Then install an Arch system with rolling release for 3 months. Do all the process of installation and get into all the details that make Linux work and how it works. Go in depth into Linux. Learn to fix it when it breaks. Then choose what you want to install on your main system: a Debian, a Arch Linux or if you would like to try another distro out there.
 By this time you will be a more knowledgeable person and you could decide your next move. <br>
 <br>
 **You should, from the start, embark on a reading and studying journey, the path is listed below and some of the reading material is listed below.** <br>
@@ -23,7 +23,7 @@ By this time you will be a more knowledgeable person and you could decide your n
 1. Learn and appreciate the **history** of Unix, Linux, GNU, X, FreeBSD and C
 2. Learn by reading the **documentation** of the 3 **major distros** Ubuntu, Debian and Arch linux
 3. Learn to use the **shell**, and more specific the **bash**
-4. Learn how to navigate with the most common **editor** **vi** and **Emacs**, learn what they represent in context, and learn other editors
+4. Learn how to navigate with the most common **editors**, **vi** and **Emacs**, learn what they represent in context, and learn other editors
 5. Learn **system administration**
 6. Learn how **Linux internals** works
 7. Learn about **open source** and the major software and hardware **licenses**
