@@ -3,7 +3,7 @@ A simple but long path to the intrepid adventurer.
 
 ## Description
 
-Unix as a family of systems, is one of the greatest bodies of intellectual work ever achieved by the human mind! It was the brainchild of Ken Thompson in 1969, because he wanted to play a simple game called Space Travel that he had developed for Multics, and he wanted to be able to run the program in a small computer of its own! With the help of Dennis Ritchie and many others it was born in the Bell Labs but quickly it became a creature of all mankind! And become in several forms a free bird to fly by its own means and to be used as a tool for whoever wishes to learn deeper about it's ways of working. It's a coherent agglomerate of different technologies that never gets old and like a Fenix, re-born from the ashes.
+Unix as a family of systems, is one of the greatest bodies of intellectual work ever achieved by the human mind! It was the brainchild of Ken Thompson in 1969, because he wanted to play a simple game called Space Travel that he had developed for Multics, and he wanted to be able to run the program in a small computer of its own! With the help of Dennis Ritchie and many others it was born at the Bell Labs and quickly became, in several ways, a creature of all mankind! A free bird to fly by its own means and to be used as a tool for whoever wishes to learn deeper its ways of working. It's a coherent agglomerate of different technologies that never gets old and like a Fenix, re-borns from the ashes.
 
 
 ## The objective of this How to
