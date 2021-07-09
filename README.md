@@ -676,7 +676,14 @@ By this time you will be a more knowledgeable person and you could decide your n
 * You will never achieve the complete nirvana, because there will always be something new to learn, and that is something good, but you will become more close to it and to enlightenment.
 
 
-## Have fun
+# All my other guides
+
+* The links to all my guides are in: <br>
+  **Guides on Linux - Programming - Embedded - Electronics - Aeronautics** <br>
+  [https://github.com/joaocarvalhoopen/Guides_Linux-Programming-Electronics-Aeronautics](https://github.com/joaocarvalhoopen/Guides_Linux-Programming-Electronics-Aeronautics)
+
+
+# Have fun
 Best regards, <br>
 João Nuno Carvalho
 
