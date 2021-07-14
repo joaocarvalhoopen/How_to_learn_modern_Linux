@@ -397,6 +397,29 @@ By this time you will be a more knowledgeable person and you could decide your n
 * How to learn modern Rust <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
 
+**C, C++ and Rust can use the following tools.** <br>
+
+* **Tool - GDB: The GNU Project Debugger** <br>
+  [https://www.gnu.org/software/gdb/documentation/](https://www.gnu.org/software/gdb/documentation/)
+
+* **Tool - The LLDB Debugger** <br>
+  [https://lldb.llvm.org/](https://lldb.llvm.org/)
+
+* **Tool - Valgrind User Manual** <br>
+  [https://valgrind.org/docs/manual/manual.html](https://valgrind.org/docs/manual/manual.html)
+
+* **Tool - The perf Linux profiler - Examples of use** <br>
+  [https://www.brendangregg.com/perf.html](https://www.brendangregg.com/perf.html)
+
+* **Tool - American Fuzzy Lop - A good fuzzer** <br>
+  [https://lcamtuf.coredump.cx/afl/](https://lcamtuf.coredump.cx/afl/)
+
+* **Tool - QuickCheck - QuickCheck is a way to do property based testing using randomly generated input. Rust** <br>
+  [https://github.com/BurntSushi/quickcheck](https://github.com/BurntSushi/quickcheck)
+
+* **Tool - Criterion rs - Statistics-driven Microbenchmarking in Rust** <br>
+  [https://github.com/bheisler/criterion.rs](https://github.com/bheisler/criterion.rs)
+
 * Video - **Go** Programming - Derek Banas <br>
   [https://www.youtube.com/watch?v=CF9S4QZuV30](https://www.youtube.com/watch?v=CF9S4QZuV30)
 
