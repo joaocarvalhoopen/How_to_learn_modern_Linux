@@ -608,6 +608,10 @@ By this time you will be a more knowledgeable person and you could decide your n
 * **Computer Architecture**: A Quantitative Approach 6th Edition <br>
   by John L. Hennessy, David A. Patterson
 
+* Video - David Patterson - **A New Golden Age for Computer Architecture**: History, Challenges and Opportunities <br>
+  Note: See at 22 minutes, 63.000x speed up from Python to optimized C <br>
+  [https://www.youtube.com/watch?v=kFT54hO1X8M](https://www.youtube.com/watch?v=kFT54hO1X8M)
+
 * How to learn modern **electronics** <br>
   [https://github.com/joaocarvalhoopen/How_to_learn_modern_electronics](https://github.com/joaocarvalhoopen/How_to_learn_modern_electronics)
 
