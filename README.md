@@ -35,6 +35,7 @@ By this time you will be a more knowledgeable person and you could decide your n
 13. **Artificial Intelligence** and **Machine Learning**
 14. Learn **Raspberry Pi** and **embedded Linux**
 15. **FreeBSD** knowledge
+17. Do the **NAND To Tetris challenge** in Rust, C, C++, GO or Python
 16. Become an **enlightened person in terms of Linux** and use it to accomplish your goals in a better way
 
 
@@ -698,7 +699,29 @@ By this time you will be a more knowledgeable person and you could decide your n
   by Joseph Kong
 
 
-## 16. Become an enlightened person in terms of Linux and use it to accomplish your goals in a better way
+## 16. Do the NAND To Tetris challenge in Rust, C, C++, GO or Python
+
+* **Building a Modern Computer From First Principles**
+
+1. **From Nand to Tetris** <br>
+   [https://www.nand2tetris.org/](https://www.nand2tetris.org/)
+
+2. Video - Shimon Schocken: The self-organizing computer course <br>
+   [https://www.youtube.com/watch?v=iE7YRHxwoDs](https://www.youtube.com/watch?v=iE7YRHxwoDs)
+
+3. Video - From Nand to Tetris Part I Course Promo <br>
+   [https://www.youtube.com/watch?v=wTl5wRDT0CU](https://www.youtube.com/watch?v=wTl5wRDT0CU)
+
+4. Free Course - **Build a Modern Computer from First Principles** <br>
+   From Nand to Tetris (Project-Centered Course) <br>
+   [https://www.coursera.org/learn/build-a-computer](https://www.coursera.org/learn/build-a-computer)
+
+5. Free Course - **Build a Modern Computer from First Principles** <br>
+   Nand to Tetris Part II (project-centered course) <br>
+   [https://www.coursera.org/learn/nand2tetris2](https://www.coursera.org/learn/nand2tetris2)
+
+
+## 17. Become an enlightened person in terms of Linux and use it to accomplish your goals in a better way
 
 * You will never achieve the complete nirvana, because there will always be something new to learn, and that is something good, but you will become more close to it and to enlightenment.
 
