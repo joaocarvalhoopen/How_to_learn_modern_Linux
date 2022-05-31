@@ -83,6 +83,11 @@ By this time you will be a more knowledgeable person and you could decide your n
 * Just for Fun: The Story of an Accidental Revolutionary <br>
   by Linus Torvalds, David Diamond
 
+* UNIX Philosophy <br>
+  A program should do one thing and do it well. <br>
+  Video - Is The Unix Philosophy Still Important? - DistroTube <br>
+  [https://www.youtube.com/watch?v=bWQIBTB695w](https://www.youtube.com/watch?v=bWQIBTB695w)
+
 * Unix <br>
   [https://en.wikipedia.org/wiki/Unix](https://en.wikipedia.org/wiki/Unix)
 
